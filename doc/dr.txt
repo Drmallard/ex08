@@ -1,0 +1,31 @@
+ex08
+
+6/20
+
+(-2) 8.2
+ne peut pas exécuter
+
+class Comparator {
+  Comparator.compare(String a, String b){
+}
+
+->
+
+class Comparator {
+  Comparator.compare(String a, String b);
+}
+
+  for (var lastName in members) {
+    members.sort((lastName, v) => lastName.values.compareTo(lastName.values));
+  } 
+  
+  tri dans for?
+
+(-4) 8.3
+couleur rouge: erreurs de syntaxe
+
+(-4) 8.4
+couleur rouge: erreurs de syntaxe
+
+(-4) 8.5
+presque identique à mon projet
